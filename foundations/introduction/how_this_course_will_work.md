@@ -42,7 +42,7 @@ The skills you will gain from completing The Odin Project will be the foundation
 
 The skills you learn here are transferable to various contexts. Once you know the *idea* and that it is *possible* to do something, actually finding out how to do that thing becomes significantly easier and is simply a Google search away most of the times.
 
-### A note about human language
+### A note about Human language
 
 The Odin Project attracts people from all over the world who aspire to learn how to become developers. Please be aware that this curriculum is written in English and maintained by English speakers who are not able or expected to translate it for you. As you develop into a programmer, you will find that the world you are entering into is firmly rooted in the English language. This means that the syntax of your programming language, the documentation that teaches you how to use it, and the majority of the people in the community are all expecting to communicate with you in English.
 
